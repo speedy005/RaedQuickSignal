@@ -1,0 +1,331 @@
+# Signed-off-by: RAED <rrrr53@hotmail.com> depend on Dario Croci <spaeleus@croci.org> file (Thank you)
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Raed QuickSignal\n"
+"POT-Creation-Date: 2022-02-01 17:00+0100\n"
+"PO-Revision-Date: 2025-09-01 21:59+0300\n"
+"Last-Translator: RAED <rrrr53@hotmail.com>\n"
+"Language-Team: RAED <rrrr53@hotmail.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../../../../../../../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Satellite"
+msgstr "Satellit"
+
+msgid "Cable"
+msgstr "Kabel"
+
+msgid "Terrestrial"
+msgstr "Terrestrisch"
+
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Altern"
+msgstr "Alternative"
+
+msgid "Streaming"
+msgstr "Streaming"
+
+msgid "Stream-tv"
+msgstr "TV-Stream"
+
+msgid "Alternative"
+msgstr "Alternative"
+
+msgid "Internet"
+msgstr "Internet"
+
+#, python-format
+msgid "+%s h"
+msgstr "+%s Std."
+
+#, python-format
+msgid "%s h"
+msgstr "%s Std."
+
+#, python-format
+msgid "%s m/s"
+msgstr "%s m/s"
+
+#, python-format
+msgid "%.01f m/s"
+msgstr "%.01f m/s"
+
+#, python-format
+msgid "%.01f ft/s"
+msgstr "%.01f ft/s"
+
+#, python-format
+msgid "%.01f mp/h"
+msgstr "%.01f mph"
+
+#, python-format
+msgid "%s mp/h"
+msgstr "%s mph"
+
+#, python-format
+msgid "%.01f knots"
+msgstr "%.01f Knoten"
+
+#, python-format
+msgid "%.01f km/h"
+msgstr "%.01f km/h"
+
+#, python-format
+msgid "%s km/h"
+msgstr "%s km/h"
+
+msgid "New moon"
+msgstr "Neumond"
+
+msgid "Waxing crescent"
+msgstr "Zunehmender Halbmond"
+
+msgid "Waning crescent"
+msgstr "Abnehmender Halbmond"
+
+msgid "الربع الأول"
+msgstr "Erstes Viertel"
+
+msgid "Last quarter"
+msgstr "Letztes Viertel"
+
+msgid "Waxing gibbous"
+msgstr "Zunehmender Mond"
+
+msgid "Waning gibbous"
+msgstr "Abnehmender Mond"
+
+msgid "Full moon"
+msgstr "Vollmond"
+
+#, python-format
+msgid "%s km"
+msgstr "%s km"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Add city"
+msgstr "Stadt hinzufügen"
+
+msgid "Please enter a name of the city"
+msgstr "Bitte Stadtnamen eingeben"
+
+msgid "Sorry, your city is not available1."
+msgstr "Entschuldigung, Ihre Stadt ist nicht verfügbar1."
+
+msgid "Sorry, your city is not available2."
+msgstr "Entschuldigung, Ihre Stadt ist nicht verfügbar2."
+
+msgid "Sorry, your city is not available."
+msgstr "Entschuldigung, Ihre Stadt ist nicht verfügbar."
+
+msgid " "
+msgstr " "
+
+msgid "Open Satfinder"
+msgstr "Satfinder öffnen"
+
+msgid "Open Signalfinder"
+msgstr "Signalfinder öffnen"
+
+msgid "Open PositionerSetup"
+msgstr "PositionerSetup öffnen"
+
+msgid "No positioner capable frontend found."
+msgstr "Kein positionsfähiges Frontend gefunden."
+
+msgid "No tuner is configured for use with a diseqc positioner!"
+msgstr "Kein Tuner für die Nutzung mit einem Diseqc-Positioner konfiguriert!"
+
+msgid "No satellite frontend found!!"
+msgstr "Kein Satelliten-Frontend gefunden!!"
+
+msgid "No satellite, terrestrial or cable tuner is configured. Please check your tuner setup."
+msgstr "Kein Satelliten-, terrestrischer oder Kabel-Tuner konfiguriert. Bitte Tuner-Einstellungen prüfen."
+
+msgid ""
+"No satellites configured for DVB-S2 tuner(s).\n"
+"Please check your tuner(s) setup."
+msgstr ""
+"Keine Satelliten für DVB-S2-Tuner konfiguriert.\n"
+"Bitte Tuner-Einstellungen prüfen."
+
+#, python-format
+msgid ""
+"New version %s is available.\n"
+"\n"
+"%s.\n"
+"\n"
+"Do want to install now."
+msgstr ""
+"Neue Version %s verfügbar.\n"
+"\n"
+"%s.\n"
+"\n"
+"Möchten Sie jetzt installieren?"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Download Picons"
+msgstr "Picons herunterladen"
+
+msgid "Download SatFinder"
+msgstr "SatFinder herunterladen"
+
+msgid "Download Signalfinder"
+msgstr "Signalfinder herunterladen"
+
+msgid "Enable Plugin"
+msgstr "Plugin aktivieren"
+
+msgid "This option for Enable or Disable Plugin"
+msgstr "Option zum Aktivieren/Deaktivieren des Plugins"
+
+msgid "Enable/Disable Check for update"
+msgstr "Automatische Update-Prüfung aktivieren/deaktivieren"
+
+msgid "This option for Enable or Disable Check for update"
+msgstr "Option zum Aktivieren/Deaktivieren der automatischen Update-Prüfung"
+
+msgid "Select key"
+msgstr "Taste auswählen"
+
+msgid "This option for choose Hot key to show RaedQuickSignal"
+msgstr "Option zum Auswählen der Hotkey-Taste für RaedQuickSignal"
+
+msgid "Enable/Disable DB Value"
+msgstr "DB-Wert aktivieren/deaktivieren"
+
+msgid "This option for Enable or Disable DB tuner Value"
+msgstr "Option zum Aktivieren/Deaktivieren des DB-Tunerwerts"
+
+msgid "Select Numbers or Resolution"
+msgstr "Nummern oder Auflösung auswählen"
+
+msgid "This option for select to show channels numbers or Resolution info"
+msgstr "Option zum Anzeigen von Kanalnummern oder Auflösungsinformationen"
+
+msgid "Select Path Of Picons Folder"
+msgstr "Pfad zum Picons-Ordner auswählen"
+
+msgid "This option for Select Path to pring picons from insdie or outside plugin"
+msgstr "Option zum Abrufen von Picons innerhalb/außerhalb des Plugins"
+
+msgid "Select Style of Plugin"
+msgstr "Plugin-Stil auswählen"
+
+msgid "This option for Select what skins Style you like to use"
+msgstr "Option zur Auswahl des gewünschten Plugin-Skins"
+
+msgid "Enable Fonts"
+msgstr "Schriften aktivieren"
+
+msgid "This option for Enable or Disable Select style of fonts"
+msgstr "Option zum Aktivieren/Deaktivieren der Schriftstile"
+
+msgid "Select Style of Font"
+msgstr "Schriftart auswählen"
+
+msgid ""
+"This option for Select what font Style you like to use.\n"
+"\n"
+"And you can also add new fonts in (/use/share/fonts).\n"
+"(NEED) do Restart GUI if add new fonts"
+msgstr ""
+"Option zur Auswahl des gewünschten Schriftstils.\n"
+"\n"
+"Neue Schriften können unter (/use/share/fonts) hinzugefügt werden.\n"
+"(Erforderlich) GUI neu starten, wenn neue Schriften hinzugefügt wurden"
+
+msgid "Refresh interval in minutes:"
+msgstr "Aktualisierungsintervall (Minuten):"
+
+msgid "This option for Adjust times to update weather info"
+msgstr "Option zum Anpassen der Aktualisierungsintervalle für Wetterinformationen"
+
+msgid "Temperature unit:"
+msgstr "Temperatureinheit:"
+
+msgid "This option for Select type of Temperature what you need"
+msgstr "Option zur Auswahl der gewünschten Temperatureinheit"
+
+msgid "Location #press OK to change:"
+msgstr "Ort #OK zum Ändern drücken:"
+
+msgid "This option for choose your city name and code for weather"
+msgstr "Option zur Auswahl von Stadtname und Wettercode"
+
+msgid "Settings changed,restart enigma2 now?"
+msgstr "Einstellungen geändert, Enigma2 jetzt neu starten?"
+
+msgid "Do want to Download it now ?!!"
+msgstr "Jetzt herunterladen?!!"
+
+msgid "Download and Installing Finished."
+msgstr "Download und Installation abgeschlossen."
+
+msgid "RaedQuickSignal Setup"
+msgstr "RaedQuickSignal Einstellungen"
+
+msgid "RAED's RaedQuickSignal setup"
+msgstr "RAEDs RaedQuickSignal Setup"
+
+msgid "Hide"
+msgstr "Verstecken"
+
+msgid "Console"
+msgstr "Konsole"
+
+msgid "Execution progress:"
+msgstr "Fortschritt der Ausführung:"
+
+msgid "Execution finished!!"
+msgstr "Ausführung abgeschlossen!!"
+
+msgid ""
+"\n"
+"Press OK or Exit to abort!"
+msgstr ""
+"\n"
+"OK oder Beenden drücken, um abzubrechen!"
+
+msgid "Exit"
+msgstr "Beenden"
+
+msgid "Cancel execution?"
+msgstr "Ausführung abbrechen?"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "ft/s"
+msgstr "ft/s"
+
+msgid "km/h"
+msgstr "km/h"
+
+msgid "mp/h"
+msgstr "mph"
+
+msgid "knots"
+msgstr "Knoten"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
